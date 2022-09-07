@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Iam Teja  
+# I am Teja  
 
 - 🔭 I’m currently working on Java Technologies
 - 🌱 I’m currently learning OOPS, DBMS and Web applications
